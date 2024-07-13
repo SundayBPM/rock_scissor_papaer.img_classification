@@ -1,1 +1,1 @@
-# rock_scissor_papaer.img_classification
+# rock scissor paper img classification
